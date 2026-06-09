@@ -3,7 +3,7 @@
 <p>
   <b>Senior Product Manager</b> · Agentic AI · FinOps · Cloud
   <br/>
-  Ex-DoiT, ex-Telefónica · Building <a href="https://www.neuritiva.cl">RIXA</a> at Neuritiva as Product Lead · Based in Spain
+  Ex-DoiT, ex-Telefónica · Building <a href="https://www.neuritiva.cl">RIXA</a> · Based in Spain
 </p>
 
 <p>
